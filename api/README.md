@@ -296,6 +296,8 @@ spec:
 
 ## License
 
+Use individually or together with the full Weave Protocol suite.
+
 Apache-2.0
 
 ## Links
@@ -304,3 +306,7 @@ Apache-2.0
 - [@weave_protocol/mund](https://www.npmjs.com/package/@weave_protocol/mund)
 - [@weave_protocol/hord](https://www.npmjs.com/package/@weave_protocol/hord)
 - [@weave_protocol/domere](https://www.npmjs.com/package/@weave_protocol/domere)
+
+---
+
+Made with ❤️ for AI Safety

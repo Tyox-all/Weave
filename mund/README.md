@@ -129,3 +129,7 @@ Apache-2.0
 - [GitHub](https://github.com/Tyox-all/Weave_Protocol)
 - [Hord (Vault Protocol)](https://www.npmjs.com/package/@weave_protocol/hord)
 - [Dōmere (Judge Protocol)](https://www.npmjs.com/package/@weave_protocol/domere)
+
+---
+
+Made with ❤️ for AI Safety

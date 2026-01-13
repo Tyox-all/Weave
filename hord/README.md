@@ -371,7 +371,13 @@ The word survives in modern English as "hoard" and is related to the concept of 
 
 ## License
 
+Use individually or together with the full Weave Protocol suite.
+
 Apache-2.0 License - See [LICENSE](../LICENSE) file
+
+---
+
+Made with ❤️ for AI Safety
 
 ---
 

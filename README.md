@@ -141,3 +141,7 @@ Apache-2.0 - Use it, fork it, build on it.
 - [Mund Documentation](./mund/README.md)
 - [Hord Documentation](./hord/README.md)
 - [Dōmere Documentation](./domere/README.md)
+
+---
+
+Made with ❤️ for AI Safety
