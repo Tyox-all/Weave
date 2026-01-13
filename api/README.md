@@ -300,7 +300,7 @@ Apache-2.0
 
 ## Links
 
-- [Weave Protocol Security Suite](https://github.com/Tyox-all/Weave-Protocol)
+- [Weave Protocol Security Suite](https://github.com/Tyox-all/Weave_Protocol)
 - [@weave_protocol/mund](https://www.npmjs.com/package/@weave_protocol/mund)
 - [@weave_protocol/hord](https://www.npmjs.com/package/@weave_protocol/hord)
 - [@weave_protocol/domere](https://www.npmjs.com/package/@weave_protocol/domere)
