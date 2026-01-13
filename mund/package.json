@@ -1,5 +1,5 @@
 {
-  "name": "mund-mcp",
+  "name": "@weave_protocol/mund",
   "version": "0.1.0",
   "description": "The Guardian Protocol - MCP-based security monitoring for agentic AI systems",
   "main": "dist/index.js",

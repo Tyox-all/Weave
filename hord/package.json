@@ -1,5 +1,5 @@
 {
-  "name": "hord-mcp",
+  "name": "@weave_protocol/hord",
   "version": "0.1.0",
   "description": "The Vault Protocol - Cryptographic containment and capability management for AI agents",
   "main": "dist/index.js",
