@@ -1,0 +1,45 @@
+{
+  "name": "@weave_protocol/api",
+  "version": "1.0.0",
+  "description": "Universal REST API for Weave Security Suite - works with OpenAI, Gemini, LangChain, and any HTTP client",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "weave-api": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [
+    "weave",
+    "security",
+    "ai",
+    "openai",
+    "gemini",
+    "langchain",
+    "grok",
+    "copilot",
+    "rest-api",
+    "function-calling"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "express-rate-limit": "^7.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/express": "^4.17.21",
+    "@types/cors": "^2.8.17",
+    "typescript": "^5.3.0",
+    "tsx": "^4.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
