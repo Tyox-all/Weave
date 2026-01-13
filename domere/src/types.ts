@@ -673,8 +673,10 @@ export interface DomereConfig {
   anchoring: {
     solana_rpc: string;
     solana_program_id: string;
+    solana_treasury: string;
     ethereum_rpc: string;
     ethereum_contract: string;
+    ethereum_treasury: string;
     protocol_fee_bps: number;       // Basis points, 500 = 5%
   };
   

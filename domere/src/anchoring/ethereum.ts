@@ -23,6 +23,7 @@ export interface EthereumConfig {
   rpc_url: string;
   contract_address: string;
   chain_id?: number;
+  treasury?: string;
 }
 
 export interface EthereumAnchorData {
@@ -46,6 +47,7 @@ export class EthereumAnchorClient {
       rpc_url: config?.rpc_url ?? DEFAULT_CONFIG.anchoring.ethereum_rpc,
       contract_address: config?.contract_address ?? DEFAULT_CONFIG.anchoring.ethereum_contract,
       chain_id: config?.chain_id ?? 1,  // Mainnet default
+      treasury: config?.treasury ?? DEFAULT_CONFIG.anchoring.ethereum_treasury,
     };
     this.isTestnet = this.config.rpc_url.includes('sepolia') || 
                      this.config.rpc_url.includes('goerli') ||

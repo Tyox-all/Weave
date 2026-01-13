@@ -45,7 +45,7 @@ export class SolanaAnchorClient {
     this.config = {
       rpc_url: config?.rpc_url ?? DEFAULT_CONFIG.anchoring.solana_rpc,
       program_id: config?.program_id ?? DEFAULT_CONFIG.anchoring.solana_program_id,
-      treasury: config?.treasury,
+      treasury: config?.treasury ?? DEFAULT_CONFIG.anchoring.solana_treasury,
     };
     this.isDevnet = this.config.rpc_url.includes('devnet');
   }
