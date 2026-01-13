@@ -1,6 +1,6 @@
-# Weave API
+# Weave Protocol API
 
-**Universal REST Interface for Weave Security Suite**
+**Universal REST Interface for Weave Protocol Security Suite**
 
 Works with **any** AI platform: OpenAI, Gemini, LangChain, Grok, Copilot, Siri, or any HTTP client.
 
@@ -296,11 +296,11 @@ spec:
 
 ## License
 
-MIT
+Apache-2.0
 
 ## Links
 
-- [Weave Security Suite](https://github.com/Tyox-all/Weave)
+- [Weave Protocol Security Suite](https://github.com/Tyox-all/Weave)
 - [@weave_protocol/mund](https://www.npmjs.com/package/@weave_protocol/mund)
 - [@weave_protocol/hord](https://www.npmjs.com/package/@weave_protocol/hord)
 - [@weave_protocol/domere](https://www.npmjs.com/package/@weave_protocol/domere)

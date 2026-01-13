@@ -1,4 +1,4 @@
-# Weave Security Suite
+# Weave Protocol Security Suite
 
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D18-brightgreen)
@@ -18,7 +18,7 @@ They don't solve for trust—how we verify what agents actually did.
 
 When Agent A calls Agent B calls Agent C, who confirms the original intent was preserved? Who proves what happened at each step?
 
-Weave enforces identity, intent, and proof at execution time—not just at the handshake.
+Weave Protocol enforces identity, intent, and proof at execution time—not just at the handshake.
 
 ## The Suite
 
@@ -111,7 +111,7 @@ Weave/
 
 ## Business Model
 
-**100% Free (MIT License):**
+**100% Free (Apache-2.0 License):**
 - All scanning and detection (Mund)
 - All containment and redaction (Hord)
 - All threading and drift detection (Dōmere)
@@ -123,9 +123,9 @@ Weave/
 - Ethereum: ~$2-10 + protocol fee
 - You bring your own wallet
 
-## Why Weave?
+## Why Weave Protocol?
 
-| Traditional | Weave |
+| Traditional | Weave Protocol |
 |-------------|-------|
 | Point identity (who is this?) | Thread identity (what has this done?) |
 | Exchange tokens | Enforce at execution |
@@ -134,7 +134,7 @@ Weave/
 
 ## License
 
-MIT - Use it, fork it, build on it.
+Apache-2.0 - Use it, fork it, build on it.
 
 ## Links
 

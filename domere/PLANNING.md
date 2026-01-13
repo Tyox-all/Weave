@@ -4,7 +4,7 @@
 
 **Dōmere** (Old English for "judge, arbiter") is the verification and anchoring layer for AI agent security. While Mund watches and Hord contains, Dōmere verifies the weave of intent through agent chains and anchors proof immutably to blockchain.
 
-## Core Philosophy: Weave-First Security
+## Core Philosophy: Weave Protocol-First Security
 
 Traditional identity systems ask "who is this agent?" - a point-in-time question.
 
@@ -226,6 +226,6 @@ domere/
 
 ## License
 
-MIT - Free to use, modify, distribute. Forever.
+Apache-2.0 - Free to use, modify, distribute. Forever.
 
 Blockchain anchoring uses deployed contracts with protocol fees that fund development.

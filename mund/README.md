@@ -2,7 +2,7 @@
 
 **Pattern Detection & Threat Scanning for AI Agents**
 
-Part of the [Weave Security Suite](https://github.com/Tyox-all/Weave) (Mund + Hord + Dōmere)
+Part of the [Weave Protocol Security Suite](https://github.com/Tyox-all/Weave) (Mund + Hord + Dōmere)
 
 ## What It Does
 
@@ -97,7 +97,7 @@ Run as MCP server for Claude Desktop:
 ## Integration with Hord & Dōmere
 
 ```typescript
-// Full Weave security flow
+// Full Weave Protocol security flow
 import { SecretScanner } from '@weave_protocol/mund';
 import { VaultManager } from '@weave_protocol/hord';
 import { ThreadManager } from '@weave_protocol/domere';
@@ -122,7 +122,7 @@ await thread.addHop({
 
 ## License
 
-MIT
+Apache-2.0
 
 ## Links
 

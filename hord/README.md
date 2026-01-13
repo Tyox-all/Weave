@@ -1,6 +1,6 @@
 # Hord - The Vault Protocol 🔐
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache--2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)](https://nodejs.org)
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io)
 
@@ -371,7 +371,7 @@ The word survives in modern English as "hoard" and is related to the concept of 
 
 ## License
 
-MIT License - See [LICENSE](../LICENSE) file
+Apache-2.0 License - See [LICENSE](../LICENSE) file
 
 ---
 

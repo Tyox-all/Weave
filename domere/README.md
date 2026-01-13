@@ -2,7 +2,7 @@
 
 **Thread Identity, Intent Verification & Blockchain Anchoring for AI Agents**
 
-Part of the [Weave Security Suite](../README.md) (Mund + Hord + Dōmere)
+Part of the [Weave Protocol Security Suite](../README.md) (Mund + Hord + Dōmere)
 
 ## The Problem
 
@@ -47,4 +47,4 @@ const hop = await domere.addHop({
 
 ## License
 
-MIT
+Apache-2.0

@@ -335,7 +335,7 @@ interface AttestationContext {
 ```
 hord-mcp/
 ├── README.md
-├── LICENSE (MIT)
+├── LICENSE (Apache-2.0)
 ├── CONTRIBUTING.md
 ├── SECURITY.md
 ├── package.json
@@ -611,4 +611,4 @@ Agent Request
 
 ## License
 
-MIT License - See LICENSE file
+Apache-2.0 License - See LICENSE file
