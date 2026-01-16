@@ -42,7 +42,7 @@ export const DEFAULT_CONFIG: DomereConfig = {
     solana_treasury: '9d7YccD7j9P6GRaHYMgZAYKdcuhLjTSvcKXS6nR5czZg',
     solana_program_id: 'BeCYVJYfbUu3k2TPGmh9VoGWeJwzm2hg2NdtnvbdBNCj',
     ethereum_rpc: 'https://mainnet.infura.io/v3/YOUR_KEY',
-    ethereum_contract: '0x0000000000000000000000000000000000000000',
+    ethereum_contract: '0xAA8b52adD3CEce6269d14C6335a79df451543820',
     ethereum_treasury: '0x1425ce62Cd7680c4133CED3b33F85c4F4af27950',
     protocol_fee_bps: 500,  // 5%
   },
